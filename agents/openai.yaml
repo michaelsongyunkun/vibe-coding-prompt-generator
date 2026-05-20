@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vibe Coding Prompt Generator"
+  short_description: "Turn product ideas into Codex-ready development prompts."
+  default_prompt: "Use $vibe-coding-prompt-generator to turn my product idea into a Codex-ready vibe coding prompt."
